@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.7e4ec619.js",
-    "static/js/787.e7849f3c.chunk.js": "/static/js/787.e7849f3c.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.7e4ec619.js.map": "/static/js/main.7e4ec619.js.map",
-    "787.e7849f3c.chunk.js.map": "/static/js/787.e7849f3c.chunk.js.map"
+    "main.css": "/gitworkflow/static/css/main.073c9b0a.css",
+    "main.js": "/gitworkflow/static/js/main.cbffa724.js",
+    "static/js/787.e7849f3c.chunk.js": "/gitworkflow/static/js/787.e7849f3c.chunk.js",
+    "static/media/logo.svg": "/gitworkflow/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitworkflow/index.html",
+    "main.073c9b0a.css.map": "/gitworkflow/static/css/main.073c9b0a.css.map",
+    "main.cbffa724.js.map": "/gitworkflow/static/js/main.cbffa724.js.map",
+    "787.e7849f3c.chunk.js.map": "/gitworkflow/static/js/787.e7849f3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7e4ec619.js"
+    "static/js/main.cbffa724.js"
   ]
 }
