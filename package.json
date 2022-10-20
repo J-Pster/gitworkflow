@@ -1,5 +1,6 @@
 {
   "name": "tutorialworkflow",
+  "homepage": "https://j-pster.github.io/gitworkflow/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
